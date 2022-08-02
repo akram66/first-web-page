@@ -1,0 +1,44 @@
+/* start contact section styles  */
+.container-fluid-custom {
+    background-color:rgb(134, 190, 220);
+    color: white;
+    height: 30px;
+   
+}
+.container-fluid-custom .contact {
+    font-size: 12px;
+    float: right;
+}
+.container-fluid-custom .contact i {
+    color: rgb(242, 203, 124);
+    vertical-align: -9px;
+    margin-right: 5px;
+  
+ 
+}
+.container-fluid-custom .contact span {
+    color: antiquewhite;
+    margin: 1px;
+    vertical-align: -9px;
+}
+.container-fluid-custom .social-media {
+    direction: ltr;
+    /* vertical-align: 4px; */
+    
+}
+.container-fluid-custom .social-media i {
+     /* vertical-align:9px;  */
+    margin:auto;
+   }
+   .container-fluid-custom .social-media a{
+    color: antiquewhite;
+    float:left;
+    margin: 4px;
+    /* vertical-align: 4px; */
+
+   }
+   .container-fluid-custom .social-media a:hover{
+    background-color: rgb(243, 215, 165);
+   }
+
+/* end contact section styles  */
